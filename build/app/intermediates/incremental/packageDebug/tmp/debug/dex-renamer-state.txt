@@ -1,0 +1,4 @@
+#Fri Aug 23 09:57:18 BRT 2019
+base.0=/home/mario/FlutterProjects/Outros/hasura_flutter_chat_sample/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
